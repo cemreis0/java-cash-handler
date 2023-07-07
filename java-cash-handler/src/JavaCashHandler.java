@@ -51,7 +51,7 @@ public class JavaCashHandler {
         DecimalFormat df = new DecimalFormat("0.00");
 
         // read input from the user
-        System.out.print("Enter price: $ ");
+        System.out.print("Enter price:  $ ");
         price = scanner.nextInt();
         System.out.print("Enter tender: $ ");
         tender = scanner.nextInt();
